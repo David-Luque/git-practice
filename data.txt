@@ -1,3 +1,4 @@
 Name: David 
 Age: 29
 Favorite Color: why choose only one?
+weigh: 350 kg
